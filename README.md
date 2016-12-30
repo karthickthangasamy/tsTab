@@ -1,2 +1,0 @@
-# tsTab
-tab repo
